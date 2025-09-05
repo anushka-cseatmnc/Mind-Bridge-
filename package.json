@@ -1,0 +1,14 @@
+{
+  "name": "mindbridge-platform",
+  "version": "1.0.0",
+  "description": "Mental Health Platform for J&K Students",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && npm run dev",
+    "install-all": "cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": ["mental-health", "students", "sih2025"],
+  "author": "Your Team Name"
+}
