@@ -1,10 +1,10 @@
-# MindBridge: J&K Student Mental Health Platform
+# MindBridge - J&K Student Mental Health Platform
 
  A Digital Mental Health and Psychological Support System for Students in Higher Education.
 
  <img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/e9911769-1b52-4a0a-ab39-046e80b5b2bd" />
 
-**SIH25092** | Government of Jammu and Kashmir |
+**SIH25092** | Government of Jammu and Kashmir 
 
 ## Problem
 - **60% J&K students** have mental health issues
