@@ -13,7 +13,7 @@
 - **Cultural stigma** prevents help-seeking
 
 ## Solution
-''' **AI chatbot + Real counselor booking + Crisis detection** ''' 
+ '''AI chatbot + Real counselor booking + Crisis detection''' 
 
 ### Core Features
 🤖 **Smart AI Chat** - Detects crisis, escalates to humans  
